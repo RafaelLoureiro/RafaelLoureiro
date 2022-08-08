@@ -5,7 +5,7 @@
 - 🌱 Estdando Html, CSS, Javascript.
 - 😄 Pronouns: ele/dele
 
-<div align="column">
+<div align="center">
   <a href="https://github.com/RafaelLoureiro"><img height="auto" src="https://github-readme-stats.vercel.app/api?username=RafaelLoureiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLoureiro&layout=compact&langs_count=7&theme=dracula"/>
