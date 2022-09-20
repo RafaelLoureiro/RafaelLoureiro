@@ -1,8 +1,8 @@
 ### Oi, Bem-vindo ao meu perfil.
 
 <div align="enter">
-  <a href="https://github.com/RafaelLoureiro"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=RafaelLoureiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLoureiro&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://github.com/RafaelLoureiro"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=RafaelLoureiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLoureiro&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
